@@ -1,0 +1,13 @@
+{
+	// Applications part
+	"apps": [
+		{
+			"name": "Sekaibo API",
+			"script": "dist/src/main.js"
+		},
+		{
+			"name": "Crawl Binance",
+			"script": "dist/src/micro-service/socket-binance-2s.js"
+		}
+	]
+}
